@@ -9,3 +9,4 @@ function goUp(up, cb) {
         }
     }, 600)
 }
+fu
